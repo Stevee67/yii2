@@ -1,0 +1,1 @@
+<h1>Yii 2.0 Beta is released</h1>
